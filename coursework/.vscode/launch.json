@@ -5,7 +5,7 @@
       "name": "GDB Debug",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/main",
+      "program": "${workspaceFolder}/acacgs",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
@@ -29,7 +29,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/dcs/23/u5539415/Desktop/cs257/coursework",
-      "program": "/dcs/23/u5539415/Desktop/cs257/coursework/build/Debug/outDebug",
+      "program": "/dcs/23/u5539415/Desktop/cs257/coursework/acacgs",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
