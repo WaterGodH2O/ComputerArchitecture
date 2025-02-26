@@ -12,6 +12,7 @@
 #include "conjugateGradient.h"
 #include "mesh.h"
 
+
 /**
  * @brief Main entry point to the program
  * 
@@ -29,6 +30,9 @@ int main(int argc, char *argv[])
   /* Initalise values and matrix */
   struct mesh *A;
   double *x, *b, *xexact;
+
+
+
   int ierr = 0;
   double times[4];
   int nx, ny, nz;
